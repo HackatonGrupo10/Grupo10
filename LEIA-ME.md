@@ -31,3 +31,6 @@ podem agir com mais rapidez.
 Quanto maior o número de usuários registrando em tempo real a localização, mais breve será 
 o combate e mais pontos serão marcados no mapa das denúncias que foram feitas. Criando assim, 
 um mapeamento das regiões que mais intensamente sofrem com as queimadas.
+> Tela inicial
+
+![telaapp](https://user-images.githubusercontent.com/69095977/89130284-f57fb300-d4d9-11ea-85a7-4299a12922f5.png)
