@@ -24,7 +24,7 @@ e longitude possa indicar onde tem uma queimada, dessa forma, a queimada possa s
 eficientemente. E o seu diferencial é ser de baixo custo, qualquer pessoa pode baixar e 
 contribuir, e direto, ele indica onde há uma queimada e assim as autoridades responsáveis
 podem agir com mais rapidez.
-
+![celular](https://user-images.githubusercontent.com/69095977/89129247-3e336e00-d4d2-11ea-896d-e39d49b2cca8.jpg)
 Quanto maior o número de usuários registrando em tempo real a localização, mais breve será 
 o combate e mais pontos serão marcados no mapa das denúncias que foram feitas. Criando assim, 
 um mapeamento das regiões que mais intensamente sofrem com as queimadas.
