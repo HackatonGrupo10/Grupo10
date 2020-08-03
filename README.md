@@ -1,4 +1,4 @@
-# Hackaton Bnds 2020
+# Hackaton BNDS 2020
 # Grupo 10
 ## Sumário
 - [Integrantes](#Integrantes) 
