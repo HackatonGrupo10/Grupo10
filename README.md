@@ -1,5 +1,10 @@
 # Hackaton Bnds 2020
 # Grupo 10
+## Sumário
+- [Integrantes](#Integrantes) 
+- [Divisão das tarefas](#Divisão das tarefas)
+
+
 ## Integrantes
   - Darlan Freire
   - Lucas Alves
