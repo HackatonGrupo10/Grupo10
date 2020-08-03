@@ -2,20 +2,20 @@
 # Grupo 10
 ## Sumário
 - [Integrantes](#Integrantes) 
-- [Divisão das tarefas](#Divisão_das_tarefas)
-- [Ferramentas utilizadas](#Ferramentas_utilizadas)
+- [Divisão das tarefas](#Divisão)
+- [Ferramentas utilizadas](#Ferramentas)
 - [Tema](#Tema)
-- [O Aplicativo](#O_Aplicativo)
+- [O Aplicativo](#Aplicativo)
 
 
 ## Integrantes
   - Darlan Freire
   - Lucas Alves
   - Lucas Dos Santos
-### Divisão das tarefas
+### Divisão 
   A divisão das tarefas ficou assim: Darlan e Lucas dos Santos ficaram responsáveis pela parte de desenvolvimento do aplicativo, e Lucas Alves 
   fez a parte de pesquisas e apresentação do projeto.
-### Ferramentas utilizadas
+### Ferramentas 
  ![Java](https://s2.glbimg.com/5pgaEIiZXIVWgSTOtfKBtm5AHaU=/695x393/s2.glbimg.com/vME2Bq4OSpm6f6IE16BhcVLR98U=/695x0/s.glbimg.com/po/tt2/f/original/2014/11/14/java-logo.jpg)
  ![Android Studio](https://r00t4bl3.com/uploads/android-studio-6464af9314a635bd20494fd1b343d2fa.png)
  ![Firebase](https://i.ytimg.com/vi/rAcWLPQIL38/maxresdefault.jpg)
@@ -27,7 +27,7 @@ Nosso grupo escolheu o desafio de propor uma solução para acompanhar as queima
 As queimadas, infelizmente, ocorrem recorrentemente no Brasil, sendo um problema difícil de
 ser resolvido. Por isso, pensamos em uma solução eficaz que possa ajudar a acompanhar  as
 queimadas e ainda diminui-las.
-## O Aplicativo
+## Aplicativo
 A ideia do aplicativo é que o usuário possa se cadastrar e a partir dos dados de latitude 
 e longitude possa indicar onde tem uma queimada, dessa forma, a queimada possa ser controlada 
 eficientemente. E o seu diferencial é ser de baixo custo, qualquer pessoa pode baixar e 
