@@ -3,6 +3,9 @@
 ## Sumário
 - [Integrantes](#Integrantes) 
 - [Divisão das tarefas](#Divisão_das_tarefas)
+- [Ferramentas utilizadas](Ferramentas_utilizadas)
+- [Tema](Tema)
+- [O Aplicativo](Aplicativo)
 
 
 ## Integrantes
@@ -18,7 +21,8 @@
  ![Firebase](https://i.ytimg.com/vi/rAcWLPQIL38/maxresdefault.jpg)
  ![API maps for android](https://ubilabs.net/website/var/tmp/image-thumbnails/0/1451/thumb__featureicons/google-maps-android-api.png)
 
-## Tema: Como acompanhar as queimadas no Brasil?
+## Tema
+## Como acompanhar as queimadas no Brasil?
 Nosso grupo escolheu o desafio de propor uma solução para acompanhar as queimadas no Brasil.
 As queimadas, infelizmente, ocorrem recorrentemente no Brasil, sendo um problema difícil de
 ser resolvido. Por isso, pensamos em uma solução eficaz que possa ajudar a acompanhar  as
