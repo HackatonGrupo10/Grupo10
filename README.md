@@ -1,4 +1,4 @@
-# Hackaton BNDS 2020
+# Hackaton Bnds 2020
 # Grupo 10
 ## Integrantes
   - Darlan Freire
