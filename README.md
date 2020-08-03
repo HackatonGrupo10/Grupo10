@@ -2,7 +2,7 @@
 # Grupo 10
 ## Sumário
 - [Integrantes](#Integrantes) 
-- [Divisão das tarefas](#Divisão das tarefas)
+- [Divisão das tarefas](#Divisão_das_tarefas)
 
 
 ## Integrantes
