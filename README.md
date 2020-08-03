@@ -3,9 +3,9 @@
 ## Sumário
 - [Integrantes](#Integrantes) 
 - [Divisão das tarefas](#Divisão_das_tarefas)
-- [Ferramentas utilizadas](Ferramentas_utilizadas)
-- [Tema](Tema)
-- [O Aplicativo](Aplicativo)
+- [Ferramentas utilizadas](#Ferramentas_utilizadas)
+- [Tema](#Tema)
+- [O Aplicativo](#O_Aplicativo)
 
 
 ## Integrantes
